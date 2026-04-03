@@ -1,14 +1,34 @@
 # 📝 To-Do List App
 
-A simple To-Do List built using HTML, CSS, and JavaScript.
+A simple and responsive To-Do List web application built using HTML, CSS, and JavaScript.
 
-## Features
+## 🚀 Features
 
-* Add task
-* Edit task
-* Delete task
-* LocalStorage
+* ➕ Add tasks
+* ✏️ Edit tasks
+* 🗑️ Delete tasks
+* 💾 LocalStorage support
+* 📱 Responsive design
 
-## Run
+## 🛠️ Tech Stack
 
-Open index.html
+* HTML
+* CSS
+* JavaScript
+
+## 📸 Screenshot
+
+![Screenshot](screenshot.png)
+
+## 🌐 Live Demo
+
+(https://todoapp-shri.netlify.app/)
+
+## ▶️ Run Locally
+
+1. Clone the repo
+2. Open `index.html`
+
+## 🙌 Author
+
+Shri
